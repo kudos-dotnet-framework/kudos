@@ -1,0 +1,12 @@
+[submodule "Kudos.Threading"]
+	path = Kudos.Threading
+	url = https://github.com/kudos-dotnet-framework/kudos-threading
+[submodule "Kudos.Dating"]
+	path = Kudos.Dating
+	url = https://github.com/kudos-dotnet-framework/kudos-dating
+[submodule "Kudos.DataBasing"]
+	path = Kudos.DataBasing
+	url = https://github.com/kudos-dotnet-framework/kudos-databasing
+[submodule "Kudos.Coring"]
+	path = Kudos.Coring
+	url = https://github.com/kudos-dotnet-framework/kudos-coring
